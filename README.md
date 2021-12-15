@@ -1,9 +1,7 @@
-
-# Express ToDo List APP 
+# Express ToDo List APP
 
 A Todo List App built using Express, Ejs and mongoDB with add,
 delete and create separate list properties.
-
 
 ## Run Locally
 
@@ -31,13 +29,10 @@ Start the server
   npm start
 ```
 
-
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1X_qVnWn5v3KJVYPDgG7wjY7x2NVFo-oo/view?usp=sharing)
-
+![App Screenshot](https://github.com/amitbatra31/TodoListExpress/blob/master/images/todolist.png)
 
 ## Demo
 
 https://expressejs-todolist.herokuapp.com/
-
